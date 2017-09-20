@@ -1,5 +1,5 @@
 # gps-recorder
-*modules
+* modules
  * Arduino pro mini(atmega328)
  * Ublox neo-6m
  * Bluetooth module
@@ -7,6 +7,6 @@
  * DC/DC regulater
  * Plastic shell/switch/indicator/wires
  
-*Schematic
+* Schematic
 
-*Arduino code
+* Arduino code
